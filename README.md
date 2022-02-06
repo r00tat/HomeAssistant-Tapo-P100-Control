@@ -1,6 +1,8 @@
 # Home Assistant Tapo P100 Control
 A custom integration for home assistant to control the Tapo P100 plugs
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
+
 ## Installation
 
 To install the Tapo P100 integration copy the `tapo_p100_control` folder into the `custom_components` folder on your home assistant instance then these lines should be added to your `configuration.yaml` file. 

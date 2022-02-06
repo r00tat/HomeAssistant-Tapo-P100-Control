@@ -1,0 +1,6 @@
+{
+  "name": "Tapo P100 Control",
+  "domains": ["light", "switch"],
+  "homeassistant": "2021.12",
+  "render_readme": true
+}
